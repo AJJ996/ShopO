@@ -1,2 +1,0 @@
-# ShopO
-ShopO repo
